@@ -1,4 +1,17 @@
-## 0.2.0-dev.1
+## 0.2.0+3
+
+ - **FIX**: dependency issue in pubspec.yaml (#3734).
+
+## 0.2.0+2
+
+ - **FIX**: fix dependency in pubspec.yaml (#3713).
+
+## 0.2.0+1
+
+* Fixed issue #3210 (`Query.orderBy(FieldPath.documentId)` throws exception).
+* Bump `cloud_firestore_platform_interface` dependency.
+
+## 0.2.0
 
 * See `cloud_firestore` plugin changelog.
 
